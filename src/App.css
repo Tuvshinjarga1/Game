@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+.Baildaan {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.Bi {
+  display: flex;
+}
+
+.Com{
+  display: flex;
+}
+
+.BiZurag {
+  margin: 0 10px;
+}
